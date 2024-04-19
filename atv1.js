@@ -14,3 +14,5 @@ function atividade1 (){
 
     console.log(Soma)
 }
+
+// O valor de Soma será 1.
