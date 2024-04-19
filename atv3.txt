@@ -1,0 +1,6 @@
+A) 9, Números que são impares
+B) 128, Números que são potencia de 2 
+C) 49, Progressão dos números quadrados
+D) 100, A soma do último numero com o penúltimo, começando de uma razão determinada anteriomente.
+E) 21, É a sequência de Fibonnaci, onde soma o dois ultimos números
+F) 200, Números que começam com a letra D 
